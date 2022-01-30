@@ -1,0 +1,71 @@
+
+/*************************************
+css file for the uno campus website project
+**************************************/
+
+/*************************************
+Header
+**************************************/
+ header
+ {
+      padding: 5px;
+      text-align: center;
+      color: indianred;
+      font-size: 14px;
+      font-family: Arial;
+ }
+
+/*************************************
+Footer
+**************************************/
+ footer
+ {
+     font-family: Arial;
+     font-size: 1.0em;
+     text-align: center;
+     clear: both;
+     padding-top: 10px;
+     padding-bottom: 50px;
+     color: indianred;
+ }
+
+/*************************************
+Page
+**************************************/
+ body
+ {
+     background-color: cornsilk;
+     color: #000;
+ }
+
+ body
+ {
+     font-family: Arial;
+ }
+
+ h2
+ {
+     font-size: 1.75em;
+     font-weight: normal;
+     margin: -5px 0 0;
+     color: brown;
+ }
+
+ img
+ {
+     max-width: 100%;
+ }
+
+ a:link:active, a:visited:active
+ {
+     color: chocolate;
+     text-decoration: underline;
+     cursor: auto;
+ }
+
+ #content-div
+ {
+     max-width: 940px;
+     margin: 0 auto;
+     padding: 0 5%;
+ }
